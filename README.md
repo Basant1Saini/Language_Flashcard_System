@@ -2,29 +2,37 @@
 
 A modern, full-stack language learning application built with the MERN stack, featuring interactive flashcards, spaced repetition algorithms, and progress tracking.
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack (Full Stack Course Technologies)
 
-- **Frontend**: React 18+ with Vite
-- **Backend**: Node.js with Express.js
-- **Database**: MongoDB with Mongoose ODM
-- **Styling**: Tailwind CSS
-- **Language**: JavaScript (ES6+)
+- **HTML & CSS**: Web design foundation with semantic HTML structure and modern CSS practices
+- **Tailwind CSS**: Advanced styling framework for rapid UI development
+- **JavaScript**: Website logic and interactivity with ES6+ features
+- **React**: Frontend library for modern UI and component-based architecture
+- **Redux**: Global state management with Redux Toolkit for predictable state updates
+- **Node.js & Express.js**: Server-side scripting and backend logic
+- **MongoDB & Mongoose**: Database and data modeling with NoSQL approach
+- **Git and GitHub**: Version control and collaborative development
+- **APIs**: RESTful API design and implementation for industry-ready skills
+
+### Development Tools
+- **Vite**: Fast build tool for modern development
+- **Nodemon**: Backend development acceleration tool
+- **Chrome DevTools**: Code debugging and testing capabilities
 - **Authentication**: JWT (JSON Web Tokens)
-- **State Management**: React Context API / Redux Toolkit
-- **HTTP Client**: Axios
-- **Development**: ESLint, Prettier, Nodemon
+- **HTTP Client**: Axios for API communication
 
-## ✨ Features
+## ✨ Features (Capstone Project Implementation)
 
 - 🎯 Interactive flashcard system with flip animations
 - 📚 Multiple language support and custom deck creation
-- 🧠 Spaced repetition algorithm for optimal learning
+- 🧠 Spaced repetition algorithm for optimal learning (DSA implementation)
 - 📊 Progress tracking and learning analytics
 - 👤 User authentication and personalized learning paths
 - 📱 Responsive design for mobile and desktop
 - 🔍 Search and filter flashcards
 - 📈 Performance metrics and streak tracking
 - 🎨 Modern UI with Tailwind CSS components
+- 🤖 Industry-ready skills with AI-powered learning suggestions
 
 ## 🛠️ Installation
 
@@ -32,7 +40,7 @@ A modern, full-stack language learning application built with the MERN stack, fe
 
 - Node.js (v18 or higher)
 - MongoDB (v6 or higher)
-- npm or yarn package manager
+- npm package manager
 
 ### Setup
 
